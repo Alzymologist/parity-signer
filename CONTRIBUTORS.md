@@ -13,8 +13,8 @@ TriplEight, Denis Pisarev, denis@parity.io
 maciejhirsz, Maciej Hirsz, unknown
 sjeohp, Joseph Mark, sjeohp@gmail.com
 debris, Marek Kotewicz, marek.kotewicz@gmail.com
-TarikGul, Tarik Gul, unknown
-s3krit, Martin Pugh, pugh@s3kr.it
+TarikGul, Tarik Gul, tarik@parity.io
+s3krit, Martin Pugh, martin@parity.io
 tomusdrw, Tomasz Drwięga, tomusdrw@gmail.com
 kosrk, Alexey, unknown
 vas3k, Vasily Zubarev, me@vas3k.ru
