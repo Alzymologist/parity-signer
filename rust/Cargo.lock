@@ -2369,6 +2369,7 @@ dependencies = [
  "hex",
  "raptorq",
  "serde_json",
+ "thiserror",
 ]
 
 [[package]]
